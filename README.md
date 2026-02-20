@@ -1,7 +1,7 @@
 # Self-Balancing Robot: PID x FLC usando um ATmega328p
 Implementação prática de controladores PID e Fuzzy Logic Control em linguagem C para estabilização de um robô autoequilibrante utilizando um ATmega328p.
 
-<img src="Imagens/SelfBalancing.jpeg" width="50%">
+<img src="Imagens/Foto_Self_Balancing.jpeg" width="50%">
 
 ## Objetivo
 Este projeto teve como objetivo implementar e comparar duas técnicas de controle (PID e Fuzzy) em um robô Self-Balancing, analisando desempenho e estabilidade.
